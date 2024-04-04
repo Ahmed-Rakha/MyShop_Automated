@@ -17,11 +17,11 @@ TestNG framework.Besides generating fake data in test cases using third party li
 
 ## Mechanism used: 
 In this project I used:
-1- design patterns like POM & Fluent Interface.
-2- Also I used a data provider making my test cases more organized and easier to maintain.
-3- WAITS 
-4- Error Handling
-5- Third party liberaries for fake random data. 
+1. design patterns like POM & Fluent Interface.
+2. Also I used a data provider making my test cases more organized and easier to maintain.
+3. WAITS
+4. Error Handling
+5. Third party liberaries for fake random data. 
 
 ## Prerequisites
 
